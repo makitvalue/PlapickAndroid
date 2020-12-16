@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bottom_upload_32dp" android:state_checked="false" >
+        <color android:color="#999999"/>
+    </item>
+    <item android:drawable="@drawable/bottom_upload_clicked_40dp" android:state_checked="true">
+        <color android:color="@color/black"/>
+    </item>
+
+</selector>
