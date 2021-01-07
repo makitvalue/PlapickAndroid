@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/Rl_child_location"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:id="@+id/tv_child_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="강남/역삼/삼성/논현"
+        android:textColor="#333333"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textAlignment="center" />
+</LinearLayout>

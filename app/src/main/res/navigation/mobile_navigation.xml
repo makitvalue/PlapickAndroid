@@ -12,10 +12,16 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.plapick.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_location"
+        android:name="com.example.plapick.ui.location.LocationFragment"
+        android:label="Location"
+        tools:layout="@layout/fragment_location" />
+
+    <fragment
+        android:id="@+id/navigation_upload"
+        android:name="com.example.plapick.ui.upload.UploadFragment"
+        android:label="upload"
+        tools:layout="@layout/fragment_upload" />
 
     <fragment
         android:id="@+id/navigation_notifications"

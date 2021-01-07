@@ -7,8 +7,18 @@
         android:title="" />
 
     <item
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_location"
+        android:icon="@drawable/ic_baseline_location_on_32"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_upload"
         android:icon="@drawable/upload_nav_selector"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_temp"
+        android:icon="@drawable/ic_baseline_location_on_32"
         android:title="" />
 
     <item

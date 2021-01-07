@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/Rl_parent_location"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/parent_location_bg"
+    android:orientation="vertical">
+    <TextView
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:id="@+id/tv_parent_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="서울"
+        android:textColor="#888888"
+        android:textStyle="normal"
+        android:textSize="18sp"
+        android:textAlignment="center" />
+</LinearLayout>

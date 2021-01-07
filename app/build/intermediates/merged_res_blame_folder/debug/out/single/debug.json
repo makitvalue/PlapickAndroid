@@ -1,21 +1,5 @@
 [
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotpick1.PNG.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\hotpick1.PNG"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_16dp.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\like_16dp.xml"
-    },
-    {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
     },
@@ -28,40 +12,20 @@
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\hotpick3.PNG"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_search_32dp.xml.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\header_search_32dp.xml"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv7.PNG.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv7.PNG"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_32dp.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\like_32dp.xml"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_child_location_list_item.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\child_location_list_item.xml"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_btn.png.flat",
@@ -72,12 +36,8 @@
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv2.PNG"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_search_icon.png.flat",
@@ -96,16 +56,16 @@
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_upload_clicked_40dp.xml.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\bottom_upload_clicked_40dp.xml"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv4.PNG.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv4.PNG"
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_parent_location_list_item.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\parent_location_list_item.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_hot_place_image_pager.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\hot_place_image_pager.xml"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_upload_32dp.xml.flat",
@@ -124,16 +84,12 @@
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\upload_nav_selector.xml"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotpick2.PNG.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\hotpick2.PNG"
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_hot_place_image.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\hot_place_image.xml"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -144,28 +100,16 @@
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv6.PNG.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv6.PNG"
-    },
-    {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
-    },
-    {
-        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_selector_color.xml.flat",
-        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\menu_selector_color.xml"
-    },
-    {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv1.PNG.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv1.PNG"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_header_bg.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\location_header_bg.xml"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_account_32dp.xml.flat",
@@ -180,11 +124,123 @@
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart.png.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_find_location.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_find_location.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_hot_place_header.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\hot_place_header.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parent_location_bg.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\parent_location_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_location.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_16dp.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\like_16dp.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotpick1.PNG.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\hotpick1.PNG"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_location_on_32.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_32.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv7.PNG.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv7.PNG"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_32dp.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\like_32dp.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_upload.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_upload.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv4.PNG.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv4.PNG"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotpick2.PNG.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\hotpick2.PNG"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv6.PNG.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv6.PNG"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_selector_color.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\menu_selector_color.xml"
+    },
+    {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv3.PNG.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\iv3.PNG"
     },
     {
         "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_home_32dp.xml.flat",
         "source": "E:\\android\\Plapick\\app\\src\\main\\res\\drawable\\bottom_home_32dp.xml"
+    },
+    {
+        "merged": "E:\\android\\Plapick\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_find_map.xml.flat",
+        "source": "E:\\android\\Plapick\\app\\src\\main\\res\\layout\\fragment_find_map.xml"
     }
 ]

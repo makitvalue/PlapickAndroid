@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
+import com.example.plapick.MainActivity
 import com.example.plapick.R
 
 class NotificationsFragment : Fragment() {
@@ -26,6 +27,10 @@ class NotificationsFragment : Fragment() {
         notificationsViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
         })
+
+        val mainActivity = (activity as MainActivity)
+        mainActivity.setHeader("사용자관리?", false)
+
         return root
     }
 }
